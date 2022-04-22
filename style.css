@@ -138,3 +138,32 @@ body {
     font-weight: 700;
     text-align: right;
 }
+
+.signup {
+    background-color: #f9faf8;
+}
+
+.signup__inner {
+    background-color: #3882f6;
+    padding: 35px 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.signup__title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.signup__link {
+    display: inline-block;
+    background-color: transparent;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    padding: 10px 35px;
+    color: #f9faf8;
+    text-decoration: none;
+}
