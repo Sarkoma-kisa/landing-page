@@ -115,3 +115,26 @@ body {
     color: #1f2937;
     text-align: center;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote__inner {
+    padding: 0 50px;
+}
+
+.quote__text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 35px;
+}
+
+.quote__author {
+    font-size: 24px;
+    color: #1f2937;
+    font-weight: 700;
+    text-align: right;
+}
